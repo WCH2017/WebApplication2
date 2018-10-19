@@ -8,5 +8,6 @@ namespace WebApplication2.Pages.test
     public class test
     {
         private String abc;
+        public string def;
     }
 }
